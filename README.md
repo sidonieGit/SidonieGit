@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Sidonie Djuissi Fohouo</h1>
+<h1 align="left">Hi 👋, I'm Sidonie</h1>
 <h3 align="left">A passionate Full-Stack developer from Cameroon</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sidoniegit&label=Profile%20views&color=0e75b6&style=flat" alt="sidoniegit" /> </p>
@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Java, Spring 3, Angular 17/21, Api Rest, swagger-ui...**
 
-- 📫 How to reach me **sifohouo@gmail.com**
+- 📫 How to reach me **sidonieDjuissifohouo@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
