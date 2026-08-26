@@ -2,7 +2,6 @@
 <h3 align="left">A passionate Full-Stack developer from Cameroon</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sidoniegit&label=Profile%20views&color=0e75b6&style=flat" alt="sidoniegit" /> </p>
-
 - 💼 Currently working as a **Freelance Full-Stack Developer**
 
 - 🌱 I'm currently learning **Data Analysis with Power BI** and improving my **CI/CD skills on VPS** through hands-on practice on a real project
@@ -44,6 +43,3 @@
 <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="powerbi" width="40" height="40"/></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sidoniegit&show_icons=true&locale=en&layout=compact" alt="sidoniegit" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sidoniegit&show_icons=true&locale=en" alt="sidoniegit" /></p>
