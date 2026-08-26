@@ -2,6 +2,7 @@
 <h3 align="left">A passionate Full-Stack developer from Cameroon</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sidoniegit&label=Profile%20views&color=0e75b6&style=flat" alt="sidoniegit" /> </p>
+
 - 💼 Currently working as a **Freelance Full-Stack Developer**
 
 - 🌱 I'm currently learning **Data Analysis with Power BI** and improving my **CI/CD skills on VPS** through hands-on practice on a real project
